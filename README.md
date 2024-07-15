@@ -2,7 +2,7 @@
 
 ## Introduccion
 
-ForoHub es una plataforma de foros en línea construida con Java 17 y Spring. Implementa los principios SOLID y utiliza MySQL y JPA para la persistencia de datos.
+ForoHub es una API REST para la gestión de foros en línea. Proporciona una plataforma donde los usuarios pueden registrarse, crear y participar en discusiones sobre diversos temas organizados en cursos.
 
 Este proyecto es la resolución de:
 > Challenge Foro Hub - Alura ONE
